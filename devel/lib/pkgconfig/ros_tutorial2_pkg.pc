@@ -1,0 +1,8 @@
+prefix=/home/baeksh1997/catkin_ws2/devel
+
+Name: ros_tutorial2_pkg
+Description: Description of ros_tutorial2_pkg
+Version: 0.1.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

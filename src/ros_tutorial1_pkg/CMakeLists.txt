@@ -10,6 +10,7 @@ project(ros_tutorial1_pkg)
 find_package(catkin REQUIRED COMPONENTS
   roscpp
   std_msgs
+  ros_tutorial_msg
 )
 
 ## System dependencies are found with CMake's conventions
